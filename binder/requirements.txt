@@ -3,3 +3,4 @@ graphviz
 jupyterlab
 matplotlib
 notebook
+numpy<2

@@ -1,0 +1,5 @@
+coffea[dask]==2024.6.1
+graphviz
+jupyterlab
+matplotlib
+notebook

@@ -1,6 +1,7 @@
 coffea[dask]==2024.6.1
+dask-labextension
 graphviz
-jupyterlab
+jupyterlab~=4.0
 matplotlib
-notebook
+notebook~=6.0
 numpy<2

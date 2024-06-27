@@ -1,0 +1,16 @@
+name: pyhep2024-coffea-dask
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - coffea=2024.6.1
+  - dask
+  - distributed
+  - graphviz
+  - python-graphviz
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - numpy<2
+  - pip
+  - dask-labextension

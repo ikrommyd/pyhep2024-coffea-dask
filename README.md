@@ -2,7 +2,7 @@
 
 ### MyBinder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ikrommyd/pyhep2024-coffea-dask/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ikrommyd/pyhep2024-coffea-dask/HEAD?labpath=coffea-dask-tutorial.ipynb)
 
 Below is a URL that will launch the `coffea-dask-tutorial.ipynb` notebook in this repository into a JupyterLab environment on MyBinder.
 
@@ -12,7 +12,7 @@ https://mybinder.org/v2/gh/ikrommyd/pyhep2024-coffea-dask/HEAD?labpath=coffea-da
 
 ### BinderHub
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/ikrommyd/pyhep2024-coffea-dask/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/ikrommyd/pyhep2024-coffea-dask/HEAD?labpath=coffea-dask-tutorial.ipynb)
 
 Below is a URL that will launch the `coffea-dask-tutorial.ipynb` notebook in this repository into a JupyterLab environment on BinderHub.
 

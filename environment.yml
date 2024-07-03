@@ -10,7 +10,7 @@ dependencies:
   - python-graphviz
   - jupyterlab
   - matplotlib
-  - notebook<7
+  - notebook
   - numpy<2
   - pip
   - dask-labextension
